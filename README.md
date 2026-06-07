@@ -2,12 +2,6 @@
 
 An end-to-end Machine Learning pipeline that explores, visualizes, and classifies the classic **Iris Dataset**. This project trains a machine learning classifier to accurately distinguish between three distinct species of Iris flowers using structural floral features.
 
-<p align="center">
-  <img src="https://www.researchgate.net/publication/367220930/figure/fig1/AS:11431281113694842@1674035105600/Three-species-of-IRIS-flower.jpg" alt="Iris Flower Species" width="600"/>
-</p>
-
----
-
 ## 📌 Project Architecture
 
 This repository contains a structured analytical pipeline divided into three major stages:
@@ -52,13 +46,3 @@ The evaluation suite outputs the following diagnostic assets:
 * **Classification Report:** Precision and recall per class to confirm there are no weak spots in individual species identification.
 * **Feature Importance Chart:** Visually ranks features so you can verify if biological assumptions match mathematical model weights (e.g., assessing the predictive power of Petal Width vs. Sepal Length).
 
----
-
-## 🚀 Local Installation & Execution
-
-Follow these steps to set up and run the classification engine on your local computer:
-
-### 1. Clone the Workspace
-```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-cd YOUR_REPOSITORY_NAME
