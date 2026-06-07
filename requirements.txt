@@ -1,3 +1,19 @@
+# Dependencies for Iris Flower Classification Web Application
+# 
+# This project is an interactive Streamlit web app for Iris flower classification.
+# Upload your dataset, explore EDA visualizations, train and compare ML models,
+# evaluate performance metrics, and predict species in real time from a clean browser UI.
+#
+# Core Dependencies:
+# - streamlit: Web framework for building interactive data applications
+# - pandas: Data manipulation and analysis
+# - seaborn: Statistical data visualization
+# - matplotlib: Plotting library for visualizations
+# - scikit-learn: Machine learning algorithms and utilities
+# - numpy: Numerical computing library
+#
+# Usage: pip install -r requirements.txt
+
 streamlit
 pandas
 seaborn
